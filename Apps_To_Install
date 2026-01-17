@@ -1,0 +1,242 @@
+Linux App Ecosystem
+
+A survival guide for Windows refugees on Linux, with a focus on preserving compatibility, muscle memory, and ease of use.
+1. Office & Docs
+
+ONLYOFFICE
+
+    The Microsoft Bridge: Opens .docx, .pptx, and .xlsx without destroying formatting.
+
+    Best Compatibility: Offers better compatibility than LibreOffice.
+
+    Clean UI: Features a Ribbon interface that feels like Office 365.
+
+    No Ads: Free desktop and mobile apps.
+
+Scribus
+
+    Professional Publishing: An open-source answer to InDesign.
+
+    Print Ready: Supports CMYK and ICC color management.
+
+    Use Case: Brochures, magazines, and PDFs.
+
+Calibre
+
+    Library Management: Helps manage PDFs, epubs, mobi files, and comic books.
+
+    Functionality: Not just for reading, but also editing, converting, and other utilities.
+
+2. Mail, Calendar & Password Manager
+
+Proton Suite
+
+    Encrypted Lifestyle: End-to-end encrypted email, calendar, and password manager.
+
+    Web-First: Seamless sync across devices, avoiding the hassle of self-hosting.
+
+MailSpring
+
+    Local Desktop Powerhouse: Modern, unified inbox supporting Gmail and Outlook.
+
+KeePassXC
+
+    Password Management: Offline-first manager where you hold the keys.
+
+    Note: The author personally avoids local managers due to syncing hassles, preferring cloud sync solutions.
+
+3. Utilities
+
+KDE Connect
+
+    Seamless Integration: Connects phone and desktop over Wi-Fi.
+
+    Remote Input: Use phone as a trackpad.
+
+    Clipboard: Universal copy-paste across devices.
+
+Btrfs Assistant
+
+    System Recovery Simplified: Benefits from BTRFS disk format to help in recovery.
+
+    Avoids Disaster: Essential for semi-rolling release distros where things might break.
+
+    Note: If you are using Ubuntu or Linux Mint, use Timeshift instead.
+
+Ark
+
+    Archive Manager: Supports zip, tar, 7z, and rar.
+
+    Integrated: Baked right into the Dolphin file manager.
+
+    Fast: Lightweight and simple for quick extractions.
+
+4. Text & Knowledge
+
+Micro
+
+    Terminal Text Editor: Human-friendly editor with standard hotkeys (Ctrl+C/V) in a terminal.
+
+    Mouse Support: Click to move cursor and scroll to scroll.
+
+    No Learning Curve: Easier than Vim and more powerful/simpler than Nano.
+
+Obsidian
+
+    Notes Stack: Markdown-based second brain with graph view.
+
+    Extensible: Has a massive library of plugins.
+
+KWrite
+
+    Quick Editor: KDE-native text editor with instant startup.
+
+    Usage: Comparable to Windows Notepad before recent changes.
+
+5. Creative Tools
+
+Krita
+
+    Digital Painting: Your CorelDraw alternative designed specifically for illustration.
+
+    Brush Engine: Best-in-class tablet support.
+
+Inkscape
+
+    Vector Design: SVG native tool perfect for logos, icons, and diagrams.
+
+    Precision: Powerful node editing tools.
+
+    Alternative to: Adobe Illustrator.
+
+GIMP
+
+    Photo Manipulation: The open-source answer to Photoshop.
+
+    Extensible: Massive library of plugins and completely free.
+
+digiKam
+
+    Photography Workflow: Professional photo management and tagging.
+
+Darktable
+
+    Photography Workflow: Non-destructive RAW editing and color grading.
+
+6. Audio & Video
+
+Audacity
+
+    Audio Editor: Simple, classic waveform editor.
+
+    Use Case: Great for podcasts, voice cleanup, and cutting.
+
+MuseScore
+
+    Music Composition: Professional sheet music creation with realistic instrument preview.
+
+    Alternative to: Sibelius.
+
+LMMS
+
+    Digital Audio Workstation: For beat making and MIDI composition.
+
+    Included: Comes with synths and samples.
+
+    Alternative to: FL Studio.
+
+OBS Studio
+
+    Streaming & Recording: The industry standard for streamers.
+
+    Features: Complex scene composition and low overhead capture.
+
+Blender
+
+    3D Creation Suite: Handles everything from modeling and rigging to animation and rendering.
+
+    Pro Grade: Used in major film and game productions.
+
+Friction
+
+    2D Motion Graphics: Used by Studio Ghibli for vector animation.
+
+    Alternative to: Adobe After Effects.
+
+OpenToonz
+
+    2D Animation: Traditional frame-based animation used by Studio Ghibli.
+
+    Alternative to: Toon Boom.
+
+Kdenlive
+
+    Video Editing: Multi-track professional timeline workflow.
+
+    Performance: Proxy support for smooth editing of 4K footage.
+
+    Alternative to: Premiere Pro.
+
+HandBrake
+
+    Video Transcoder: Compresses video for web or devices with one-click presets.
+
+7. Dev & Infrastructure
+
+Zed
+
+    Editor: High-performance, collaborative editor from the creators of Atom.
+
+Antigravity
+
+    Workflow: AI-first workflows for the modern development landscape.
+
+Cloudflare & VPN
+
+    Web Infrastructure: DNS, CDN, VPN, and security for projects.
+
+    Self-Hosting: Essential for exposing local apps safely.
+
+Podman Desktop
+
+    Container GUI: Secure, rootless containers by default.
+
+    Manager: Handle images, pods, and volumes easily.
+
+    Alternative to: Docker Desktop.
+
+DBeaver
+
+    Database Manager: Universal manager for SQL, PostgreSQL, MySQL, and SQLite.
+
+    Visual: Clean UI for queries and schema visualization.
+
+    Alternative to: DataGrip.
+
+8. Internet & Finance
+
+LibreWolf
+
+    Hardened Browser: Firefox fork with no telemetry.
+
+    Security: uBlock Origin pre-installed.
+
+    Clean: No "pocket" or sponsored shortcuts.
+
+qBittorrent
+
+    File Sharing: Clean interface with no ads or crypto miners.
+
+    Features: Search engine and RSS support built-in.
+
+    Alternative to: uTorrent.
+
+Podcasts
+
+    Media: Gnome podcast client that simply works superb.
+
+KMyMoney
+
+    Finance: Double-entry accounting.
+
+    Identity: The "Quicken" for Linux.
